@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mahadiur/Desktop/Experiment%20Track%20Using%20MLFlow/Notebook/mlruns/414246106038771448/f14b12f5dc4c49a7badd899ef3ff22ec/artifacts
+end_time: 1756304234522
+entry_point_name: ''
+experiment_id: '414246106038771448'
+lifecycle_stage: active
+run_id: f14b12f5dc4c49a7badd899ef3ff22ec
+run_name: nebulous-newt-584
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756304229841
+status: 3
+tags: []
+user_id: mahadiur

@@ -1,0 +1,10 @@
+artifact_location: file:///Users/mahadiur/Desktop/Experiment%20Track%20Using%20MLFlow/Notebook/mlruns/414246106038771448/models/m-c9facea6421846a2a91a5856d134149f/artifacts
+creation_timestamp: 1756302883895
+experiment_id: '414246106038771448'
+last_updated_timestamp: 1756302886681
+model_id: m-c9facea6421846a2a91a5856d134149f
+model_type: null
+name: models
+source_run_id: ea8e7606e6a74c2881ec14c54f66fa39
+status: 2
+status_message: null

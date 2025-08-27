@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mahadiur/Desktop/Experiment%20Track%20Using%20MLFlow/Notebook/mlruns/414246106038771448/bc758d07d786459da3c18ef9ab3e17e6/artifacts
+end_time: 1756303041854
+entry_point_name: ''
+experiment_id: '414246106038771448'
+lifecycle_stage: active
+run_id: bc758d07d786459da3c18ef9ab3e17e6
+run_name: rogue-finch-389
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756303039057
+status: 3
+tags: []
+user_id: mahadiur
